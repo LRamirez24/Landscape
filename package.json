@@ -1,0 +1,24 @@
+{
+  "name": "luna-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LRamirez24/Landscape.git"
+  },
+  "author": "luis ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LRamirez24/Landscape/issues"
+  },
+  "homepage": "https://github.com/LRamirez24/Landscape#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
